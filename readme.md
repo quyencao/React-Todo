@@ -1,3 +1,3 @@
-React Timer Application
+React Todo Application
 Host by Heroku
-[Timer App](http://infinite-tundra-22279.herokuapp.com/#/?_k=nl81qg)
+[Todo App](http://mysterious-caverns-77793.herokuapp.com/)
